@@ -1,0 +1,15 @@
+.logo_medio{
+    display: flex;
+    height: 4rem;
+    justify-content: center;
+}
+
+.logo{
+    background-color: #fff;
+    height: 4rem;
+    border-radius: 100%;
+    border: #cbb494 solid 3px;
+    margin-top: 1.5rem;
+    padding: .3rem;
+
+}

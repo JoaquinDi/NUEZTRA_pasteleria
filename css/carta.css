@@ -1,0 +1,73 @@
+.carta{
+    border: #cbb494 solid .2rem;
+    margin: 10px;
+    background-color: #cbb494;
+}
+
+.container_titulo{
+    background-color: #cbb494;
+    padding: .2rem;
+    text-align: end;
+    font-weight: bold;
+}
+
+.container_titulo-h2{
+    color: #fff;
+    font-size: 2rem;
+}
+
+.carta_variantes{
+    color: #cbb494;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: .5rem 0 1rem .2rem;
+
+}
+
+.carta_variantes-nombre{
+    font-size: 1.5rem;
+}
+
+.variantes{
+    display: flex;
+    align-items: end;
+}
+
+.variantes_p{
+    padding-right: .2rem;
+    padding-left: .7rem;
+}
+
+.catalogo_ul{
+    background-color: #fff;
+    padding: .2rem;
+}
+
+.catalogo_li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: #cbb494 solid 1px;
+    padding: .5rem 0 0 0;
+    margin-bottom: 1rem;
+}
+
+.precio_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.precio_catalogo{
+    padding-left: .5rem;
+}
+
+.catalogo_producto-nombre{
+    color: #cbb494;
+    font-size: 1.2rem;
+}
+
+.catalogo_li-datos{
+    width: 10rem;
+}
+

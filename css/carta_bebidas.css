@@ -1,0 +1,42 @@
+.carta_bebidas{
+    border: #cbb494 solid .2rem;
+    padding: 10px;
+    background-color: #cbb494;
+}
+
+.container_titulo-bebidas{
+    background-color: #cbb494;
+    padding: .2rem;
+    padding-top: 2rem;
+    font-weight: bold;
+}
+
+.container_titulo-h2-bebidas{
+    color: #fff;
+    font-size: 2rem;
+}
+
+.carta_titulo-bebidas{
+    color: #cbb494;
+    background-color: #fff;
+    padding: .5rem .2rem 1rem 0;
+    text-align: end;
+    font-weight: bold;
+}
+
+.catalogo_li-bebidas{
+height: auto;
+}
+
+.jugos{
+    color: #000;
+}
+
+.container_titulo-jugos{
+    color: #cbb494;
+    background-color: #fff;
+    padding: .5rem .2rem .5rem 0;
+    text-align: end;
+    font-weight: bold;
+    font-size: 2rem;
+}

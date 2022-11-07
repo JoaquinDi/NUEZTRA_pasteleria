@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'letter_gothic_stdbold';
+    src: url('../fuentes/lettergothicstd-bold-webfont.woff2') format('woff2'),
+         url('../fuentes/lettergothicstd-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'misoregular';
+    src: url('../fuentes/miso-webfont.woff2') format('woff2'),
+         url('../fuentes/miso-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.body{
+    font-family: 'misoregular';
+}
+
+html{
+    scroll-behavior: smooth;
+}
